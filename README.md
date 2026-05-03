@@ -1,4 +1,3 @@
-# Where-Environment-Meets-Disease
 # 🦟 Where Environment Meets Disease
 ### A Bivariate Analysis of Malaria Prevalence in Nigeria
 
@@ -90,7 +89,7 @@ This analysis serves as a **starting point** for understanding the spatial epide
 
 ## 👤 About the Author
 
-**Tiwa Daodu** — GIS Analyst & Data Enthusiast  
+**Tiwa Daodu** — GIS Analyst & Healthcare Data Analyst  
 📧 *daodutiwaloluwa@gmail.com*  
 🔗 *linkedin.com/in/tiwaloluwadaodu31*  
 🌍 Lagos, Nigeria
