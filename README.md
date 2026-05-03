@@ -17,7 +17,7 @@ This project explores the **spatial relationship between temperature and malaria
 
 ## 🗺️ Map 1 — Malaria Prevalence by State
 
-![Map 1 - Malaria Prevalence](maps/Map 1_Malaria_Prevalence.png)
+![Map 1 - Malaria Prevalence](Map%201_Malaria_Prevalence.png)
 
 **Key Findings:**
 - Northern states carry the highest malaria burden — **Kebbi (75.6%)** and **Yobe (62.5%)** top the list
@@ -28,7 +28,7 @@ This project explores the **spatial relationship between temperature and malaria
 
 ## 🌡️ Map 2 — Bivariate Analysis: Malaria Prevalence vs Temperature
 
-![Map 2 - Bivariate Analysis](maps/Map2_Bivariate_Analysis.png)
+![Map 2 - Bivariate Analysis](Map%202_Malaria_Prevalence_Updated.png)
 
 **Key Findings:**
 - **High–High combinations dominate the north**, confirming a positive spatial association between temperature and malaria prevalence
@@ -51,16 +51,13 @@ This project explores the **spatial relationship between temperature and malaria
 ## 📂 Repository Structure
 
 ```
-├── maps/
-│   ├── Map1_Malaria_Prevalence.png       # Choropleth map of malaria prevalence
-│   ├── Map1_Malaria_Prevalence.pdf
-│   ├── Map2_Bivariate_Analysis.png       # Temperature vs prevalence bivariate map
-│   └── Map2_Bivariate_Analysis.pdf
-├── qgis/
-│   ├── Map1_Malaria_Prevalence.qgz       # QGIS project file — Map 1
-│   └── Bivariate_Analysis.qgz            # QGIS project file — Map 2
-├── presentation/
-│   └── QGIS_Project_Tiwa_Daodu.pptx      # Full project presentation
+├── Map 1_Malaria_Prevalence.png          # Choropleth map of malaria prevalence
+├── Map 1_Malaria_Prevalence.pdf
+├── Map 2_Malaria_Prevalence_Updated.png  # Temperature vs prevalence bivariate map
+├── Map 2_Malaria_Prevalence_Updated.pdf
+├── Map 1-Malaria Prevalence.qgz          # QGIS project file — Map 1
+├── Bivariate analysis showing M_prevalence.qgz   # QGIS project file — Map 2
+├── QGIS project-Tiwa Daodu.pptx          # Full project presentation
 └── README.md
 ```
 
