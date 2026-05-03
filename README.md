@@ -91,7 +91,7 @@ This analysis serves as a **starting point** for understanding the spatial epide
 ## 👤 About the Author
 
 **Tiwa Daodu** — GIS Analyst & Data Enthusiast  
-📧 *[your email here]*  
-🔗 *[your LinkedIn here]*  
+📧 *daodutiwaloluwa@gmail.com*  
+🔗 *linkedin.com/in/tiwaloluwadaodu31*  
 🌍 Lagos, Nigeria
 
