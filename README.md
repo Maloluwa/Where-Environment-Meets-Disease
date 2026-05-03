@@ -83,6 +83,28 @@ While temperature is a significant driver, this project acknowledges that malari
 This analysis serves as a **starting point** for understanding the spatial epidemiology of malaria in Nigeria, with temperature as the environmental proxy.
 
 ---
+## ✅ Recommendations
+
+### Policy Recommendations
+
+**1. Prioritise Vector Control in High-Burden Northern States**
+States like Kebbi (75.6%), Yobe (62.5%), and Zamfara (59.7%) urgently need scaled-up vector control measures. Evidence from Nigeria's National Malaria Elimination Programme supports expanding Indoor Residual Spraying (IRS) and achieving universal coverage of Long Lasting Insecticidal Nets (LLINs) across high-burden northern states, where seasonal malaria transmission is most intense between April and October.
+
+**2. Expand Seasonal Malaria Chemoprevention (SMC)**
+Mathematical modelling of Nigeria's 2021–2025 National Malaria Strategic Plan projects the greatest reduction in malaria burden when SMC is expanded significantly beyond its current reach. Given the strong north-south prevalence gradient identified in this analysis, SMC expansion should be prioritised in the North-West and North-East geopolitical zones.
+
+**3. Strengthen Healthcare Infrastructure in High-Temperature, High-Prevalence Zones**
+The High–High clusters identified in the bivariate analysis (states with both high temperature and high malaria prevalence) indicate areas where healthcare access is most critical. Increasing diagnostic equipment and primary health facility coverage in these zones would improve early case detection and reduce progression to severe malaria.
+
+### Research Recommendations
+
+**4. Incorporate Additional Environmental Variables**
+Future analysis should extend beyond temperature to include rainfall, humidity, and proximity to water bodies — all of which influence mosquito breeding habitats. A multivariate spatial model would produce a more comprehensive picture of environmental drivers of malaria in Nigeria.
+
+**5. Investigate the Borno Anomaly at a Finer Scale**
+Borno's unusually low malaria prevalence (18.6%) despite high temperatures is a compelling outlier worth deeper investigation. A local government area (LGA)-level analysis incorporating security data, population displacement, and healthcare access could help explain this pattern and inform targeted interventions in conflict-affected regions.
+
+---
 
 ## 👤 About the Author
 
