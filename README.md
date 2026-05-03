@@ -17,7 +17,7 @@ This project explores the **spatial relationship between temperature and malaria
 
 ## 🗺️ Map 1 — Malaria Prevalence by State
 
-![Map 1 - Malaria Prevalence](maps/Map1_Malaria_Prevalence.png)
+![Map 1 - Malaria Prevalence](maps/Map 1_Malaria_Prevalence.png)
 
 **Key Findings:**
 - Northern states carry the highest malaria burden — **Kebbi (75.6%)** and **Yobe (62.5%)** top the list
